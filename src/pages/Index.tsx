@@ -222,8 +222,8 @@ const Index = () => {
             <p className="font-display uppercase tracking-[0.3em] text-sm text-primary mb-6">Контакты</p>
             <h2 className="font-display font-700 uppercase text-5xl md:text-7xl leading-[0.9] mb-8">
               Давайте<br />создадим<br /><span className="text-primary">что-то</span></h2>
-            <a href="mailto:hello@studio.design" className="font-display text-2xl md:text-3xl underline decoration-primary decoration-2 underline-offset-8 hover:text-primary transition-colors">
-              hello@studio.design
+            <a href="mailto:sofiyakomarova2005@gmail.com" className="font-display text-2xl md:text-3xl underline decoration-primary decoration-2 underline-offset-8 hover:text-primary transition-colors">
+              sofiyakomarova2005@gmail.com
             </a>
             <div className="flex gap-4 mt-10">
               {['Instagram', 'Send', 'Dribbble' as string].map((ic) => (
