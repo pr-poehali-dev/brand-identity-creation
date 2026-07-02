@@ -18,7 +18,7 @@ const WORKS = [
   { id: 3, title: 'FORMA', cat: 'Айдентика', type: 'Фирменный стиль', year: '2024', img: 'https://cdn.poehali.dev/projects/76bfb0a9-e43d-49ba-95c1-d79fddb7ca20/files/dcf3852a-29e6-4f7a-8064-aae30712685a.jpg' },
   { id: 4, title: 'PULSE', cat: 'Логотипы', type: 'Логотип', year: '2024', img: 'https://cdn.poehali.dev/projects/76bfb0a9-e43d-49ba-95c1-d79fddb7ca20/files/25c74f8b-2162-4e31-8288-67ae29eeaad2.jpg' },
   { id: 5, title: 'CRAFT', cat: 'Упаковка', type: 'Дизайн упаковки', year: '2025', img: 'https://cdn.poehali.dev/projects/76bfb0a9-e43d-49ba-95c1-d79fddb7ca20/files/b6382f2a-fbfe-4729-b56c-588b1492d459.jpg' },
-  { id: 6, title: 'STUDIO', cat: 'Логотипы', type: 'Логотип', year: '2023', img: 'https://cdn.poehali.dev/projects/76bfb0a9-e43d-49ba-95c1-d79fddb7ca20/files/dcf3852a-29e6-4f7a-8064-aae30712685a.jpg' },
+  { id: 6, title: 'STUDIO', cat: 'Логотипы', type: 'Логотип', year: '2023', img: 'https://cdn.poehali.dev/projects/76bfb0a9-e43d-49ba-95c1-d79fddb7ca20/files/dbc5510a-c59e-41dd-a32b-84881cbe0161.jpg' },
 ];
 
 const SERVICES = [
